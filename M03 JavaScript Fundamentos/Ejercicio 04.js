@@ -36,7 +36,7 @@ function redondearHaciaArriba(num) {
 function numeroRandom() {
    // Genera un número al azar entre 0 y 1 y retórnalo.
    // Tu código:
-   return Math.round(Math.random());
+   return Math.random();
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
